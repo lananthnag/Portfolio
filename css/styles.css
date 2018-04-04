@@ -13,16 +13,20 @@ body {
     background-color: #fff;
 }
 
-#homeImage{
-    width: 200px;
-    max-height: 70px;
-}
+
 /*Home Start*/
 .home{
-    padding-top: 400px;
+    /*padding-top: 400px;*/
     text-align: center;
 }
 .introSlogan h1{
     font-size: 100px;
 }
+
+
+#homeImage img{
+    max-height: 700px;
+    max-width:100%;
+}
+
 /*Home End*/
